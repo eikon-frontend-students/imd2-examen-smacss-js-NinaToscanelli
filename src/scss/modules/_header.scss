@@ -10,6 +10,10 @@
   margin-bottom: 60px;
 }
 
+.header.change-color.is-active {
+  background-color: yellow;
+}
+
 h1 {
   width: 1295px;
   flex-shrink: 0;
@@ -20,4 +24,8 @@ h1 {
   font-style: normal;
   font-weight: 400;
   line-height: 120px; /* 200% */
+}
+
+.h1.change-color.is-active {
+  color: #005564;
 }

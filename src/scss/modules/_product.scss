@@ -8,6 +8,9 @@
   background: var(--green, #a0d187);
   margin-top: 20px;
 }
+.block.change-color.is-active {
+  background-color: #cf9697;
+}
 
 i {
   color: var(--dark-blue, #005564);
