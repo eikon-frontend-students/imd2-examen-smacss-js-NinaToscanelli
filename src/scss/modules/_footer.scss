@@ -1,0 +1,22 @@
+.bottom {
+  width: 1400px;
+  height: 325px;
+  flex-shrink: 0;
+  background: var(--light-blue, #c0d9d9);
+  margin: 60px;
+}
+
+h4 {
+  align-self: stretch;
+  color: var(--dark-blue, #005564);
+  text-align: center;
+  font-family: "Nunito Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.icone {
+  margin-top: -220;
+}

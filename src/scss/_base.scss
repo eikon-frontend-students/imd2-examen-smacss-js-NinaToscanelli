@@ -22,3 +22,34 @@ video {
   display: block;
   max-width: 100%;
 }
+
+h2 {
+  width: 1296px;
+  flex-shrink: 0;
+  color: var(--dark-blue, #005564);
+  font-family: "Francois One";
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.heading {
+  display: flex;
+  width: 1296px;
+  height: 85px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+p {
+  align-self: stretch;
+  color: var(--dark-blue, #005564);
+  text-align: center;
+  font-family: "Nunito Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
